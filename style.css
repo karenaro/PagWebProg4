@@ -1,0 +1,24 @@
+/* CSS files add styling rules to your content */
+
+body {
+  
+    margin: 0em;
+  }
+  
+  .cover{
+    height:400px;
+    color:#0AF00D;
+    font-family: "Segoe UI";
+    text-align:center;
+    background-image:url(/img/krista-mangulsone-9gz3wfHr65U-unsplash.jpg);
+    background-size:cover;
+    background-position:center;
+  
+  }
+  
+  .card{
+    border:0;
+    font-family: "Segoe UI";
+    text-align:center;
+  }
+  
